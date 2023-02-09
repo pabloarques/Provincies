@@ -8,6 +8,7 @@ public class ProvinciesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProvinciesApplication.class, args);
+		System.out.println("");
 	}
 
 }
